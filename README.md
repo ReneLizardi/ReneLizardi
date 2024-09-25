@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there.. im RENEE 👋
 
 - 🔭 I’m currently working on freelancer.
 - 🌱 I’m currently learning php.
